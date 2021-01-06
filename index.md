@@ -23,7 +23,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 1. Nested Lists
     - item 1
-     - item 2
+        - item 2
 
 - [x] This is a task list
 - [ ] task
