@@ -1,5 +1,5 @@
-#Kelynn's Page
-##Different Formats
+# Kelynn's Page
+## Different Formats
 
 **This is bold text**
 *This text is italicized*
