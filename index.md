@@ -13,6 +13,8 @@ These are some commands:
 git status
 git add
 ```
+
+## Links and Lists
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [This is a link to my LinkedIn](https://www.linkedin.com/in/kelynn-ma/)
