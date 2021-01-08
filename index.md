@@ -1,5 +1,5 @@
 # Kelynn's Page
-## Different Formats
+## Formats
 
 **This is bold text**
 *This text is italicized*
@@ -20,6 +20,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 [Relative link to readme](/README.md)
 
 [This is a link to my LinkedIn](https://www.linkedin.com/in/kelynn-ma/)
+
+[Section link back to Formats](#Formats)
 
 - This is a list
 - list
