@@ -21,8 +21,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 [This is a link to my LinkedIn](https://www.linkedin.com/in/kelynn-ma/)
 
-[Section link back to Formats](#Formats)
-
 - This is a list
 - list
 - list
