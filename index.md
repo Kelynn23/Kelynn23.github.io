@@ -17,6 +17,7 @@ git add
 ## Links and Lists
 This site was built using [GitHub Pages](https://pages.github.com/).
 
+[Relative link to readme](docs/README.md)
 [This is a link to my LinkedIn](https://www.linkedin.com/in/kelynn-ma/)
 
 - This is a list
